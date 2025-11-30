@@ -74,8 +74,11 @@ Beyond research, I am a Full-Stack Developer with a solid foundation in software
 ### 📬 Connect with Me
 For questions, collaborations, or general inquiries, please feel free to reach out.
 
-- **Email:** [yuliu23@m.fudan.edu.cn](mailto:yuliu23@m.fudan.edu.cn)
-<!-- - **LinkedIn:** [] -->
-- **GitHub:** [@yuliu625](https://github.com/yuliu625)
+- **Homepage:** [Yu Liu](http://yuliu625.github.io/)
+- **Email:** [yuliu@fudan](mailto:yuliu23@m.fudan.edu.cn)
+- **LinkedIn:** [@yuliu](https://www.linkedin.com/in/yu-liu-52abb9392/)
+- **GitHub(Academic):** [@yuliu625](https://github.com/yuliu625)
+- **GitHub(Exploration):** [@yul1024](https://github.com/yul1024)
+- **Blog(Chinese):** [@yul1024](https://blog.csdn.net/yul1024)
 <!-- - **Google Scholar:** [] -->
 
